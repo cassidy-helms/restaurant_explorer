@@ -1,4 +1,4 @@
-package com.chelms.restaurant_explorer.config;
+package com.chelms.restaurantexplorer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.chelms.restaurant_explorer;
+package com.chelms.restaurantexplorer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

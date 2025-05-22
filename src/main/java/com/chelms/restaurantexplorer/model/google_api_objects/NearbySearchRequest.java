@@ -1,4 +1,4 @@
-package com.chelms.restaurant_explorer.model.google_api_objects;
+package com.chelms.restaurantexplorer.model.google_api_objects;
 
 public class NearbySearchRequest {
     private LocationRestriction locationRestriction;
